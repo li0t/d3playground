@@ -1,0 +1,23 @@
+{
+  "name": "d3test",
+  "version": "0.0.1",
+  "description": "d3 playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li0t/d3playground.git"
+  },
+  "keywords": [
+    "d3",
+    "playground"
+  ],
+  "author": "li0t",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/li0t/d3playground/issues"
+  },
+  "homepage": "https://github.com/li0t/d3playground#readme"
+}
